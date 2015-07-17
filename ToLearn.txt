@@ -1,0 +1,9 @@
+Spark
+Hadoop
+Github
+Scala
+Gradle
+Amazon
+python
+putty
+connect via ssh
